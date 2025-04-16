@@ -1,0 +1,167 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vController
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1730490305
+!i10b 1
+!s100 oE78BA[GF3?YnROWiz00<2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ihf`zdo72?RfV`LfVAEAYd0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/Asus/Desktop/8-queen
+w1730489706
+8C:/Users/Asus/Desktop/8-queen/Controller.sv
+FC:/Users/Asus/Desktop/8-queen/Controller.sv
+!i122 28
+L0 2 113
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1730490305.000000
+!s107 C:/Users/Asus/Desktop/8-queen/Controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Asus/Desktop/8-queen/Controller.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@controller
+vDataPath
+R0
+R1
+!i10b 1
+!s100 O:ZW]JB@okaBHDzaG9eXa0
+R2
+ImTNm_W_YEn12E[B@NIUig2
+R3
+S1
+R4
+w1730490302
+8C:/Users/Asus/Desktop/8-queen/Datapath.sv
+FC:/Users/Asus/Desktop/8-queen/Datapath.sv
+!i122 27
+L0 1 46
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Asus/Desktop/8-queen/Datapath.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Asus/Desktop/8-queen/Datapath.sv|
+!i113 1
+R7
+R8
+n@data@path
+visSafe
+R0
+R1
+!i10b 1
+!s100 o^z?EXi90^MGhCo7e9m4n1
+R2
+IM23XB]]QTO;7mmlJgZg[e2
+R3
+S1
+R4
+Z9 w1730489724
+Z10 8C:/Users/Asus/Desktop/8-queen/isSafe.sv
+Z11 FC:/Users/Asus/Desktop/8-queen/isSafe.sv
+!i122 29
+L0 4 65
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Asus/Desktop/8-queen/isSafe.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Asus/Desktop/8-queen/isSafe.sv|
+!i113 1
+R7
+R8
+nis@safe
+vReg_8bit
+R0
+R1
+!i10b 1
+!s100 N0WCK6=N6Cm:_UXkPoR8Z2
+R2
+I^gMXgXYa9_e7nYC;NC[Ke3
+R3
+S1
+R4
+R9
+R10
+R11
+!i122 29
+L0 70 10
+R5
+r1
+!s85 0
+31
+R6
+Z13 !s107 C:/Users/Asus/Desktop/8-queen/isSafe.sv|
+R12
+!i113 1
+R7
+R8
+n@reg_8bit
+vTB
+R0
+R1
+!i10b 1
+!s100 l0f4d8IJbTO<`nRTFm;kf2
+R2
+I>K?cYEmFMF3<7S^cU0h7L0
+R3
+S1
+R4
+w1730489850
+8C:/Users/Asus/Desktop/8-queen/TB.sv
+FC:/Users/Asus/Desktop/8-queen/TB.sv
+!i122 26
+L0 3 51
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Asus/Desktop/8-queen/TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Asus/Desktop/8-queen/TB.sv|
+!i113 1
+R7
+R8
+n@t@b
+vTopModule
+R0
+R1
+!i10b 1
+!s100 jGDj:]f4[gO_jD;`aM7G20
+R2
+IZUUDoe1WL`N4<Qfc8nH2m3
+R3
+S1
+R4
+w1730489785
+8C:/Users/Asus/Desktop/8-queen/Top Module.sv
+FC:/Users/Asus/Desktop/8-queen/Top Module.sv
+!i122 25
+L0 2 14
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Asus/Desktop/8-queen/Top Module.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Asus/Desktop/8-queen/Top Module.sv|
+!i113 1
+R7
+R8
+n@top@module
